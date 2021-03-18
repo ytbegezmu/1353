@@ -1,0 +1,6 @@
+first name:yitbarek
+last name:gezmu
+Id:1353
+year:4th
+section:B
+semister:1St
